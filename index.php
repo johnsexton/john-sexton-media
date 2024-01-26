@@ -41,17 +41,14 @@
 
     <section id="home">
       <div class="container">
-
         <h2 class="tagline">Bringing <em>awesome</em> to the table.</h2>
         <p>Looking for an expert in either instructional design or digital media marketing? Look no further! I come with over a decade of experience, specializing in creating visually stunning content. My skills in instructional design enable me to design and develop <strong>e-learning courses</strong> and other services to help enhance learner performance and productivity. On the digital media front, my skills include <strong>web design</strong>, <strong>videography</strong>, and <strong>photography</strong>. I can help you build your brand by supporting your marketing campaigns to drive results and engage with your target audiences.</p>
         <p>Currently, I am working full-time for the Division of Academic Innovation @ <a href="https://worldwide.erau.edu/">Embry-Riddle Aeronautical Unviersity Worldwide</a>. However, I am still available for part-time contract work on the side! If you need an expert in either instructional design or digital media, I am your go-to person. Let's connect and discuss how we can work together to achieve your goals.</p>
-
       </div>
     </section>
 
     <section id="instructional-design">
       <div class="container">
-
         <h2>Instructional Design</h2>
         <p>As an experienced instructional designer and technologist, I am passionate about creating effective and engaging learning experiences for diverse audiences. With over 10 years of experience, I have designed and developed e-learning courses, instructor-led training materials, and other materials that have helped organizations improve their employee performance and productivity. I use proven instructional design methodologies to ensure that the materials I create are both effective and efficient.</p>
         <h3 class="sr-only">Instructional Design Services</h3>
@@ -68,7 +65,6 @@
 
     <section id="digital-media">
       <div class="container">
-
         <h2>Digital Media</h2>
         <p>As a digital media expert, I specialize in creating visually compelling content that connects with audiences. My skills include website design and development, video production, and photography. I have worked on a variety of marketing campaigns, helping organizations to tell their stories and engage with their target audiences. With a keen eye for detail and a commitment to quality, I take pride in delivering projects that exceed expectations. Whether you need a website, video, or photos for your marketing campaigns, I can help you achieve your goals. Let's connect and explore how we can collaborate to create stunning content that drives results.</p>
         <h3 class="sr-only">Digital Media Services</h3>
@@ -80,26 +76,21 @@
           <li><img src="img/icon-graphic-design.png"> <strong>Graphic Design</strong> Create visually appealing and persuasive marketing materials, which can help to build brand awareness, attract new customers, and differentiate your business from competitors.</li>
           <li><img src="img/icon-ux.png"> <strong>UX/UI</strong> Improve the usability and accessibility of your website, leading to higher customer satisfaction, retention, and advocacy, and ultimately, increased revenue and brand loyalty.</li></li>
         </ul>
-
       </div>
     </section>
 
     <section id="resume">
       <div class="container">
-
         <h2>Resume</h2>
         <p>I bring over a decade of experience working with numerous teams in various industries such as Information Technology, Education, Aeronautics, and Medicine. I have crafted this resume to showcase my skills, experience, and achievements. You'll find that I have a wealth of relevant experience in the industry, along with the education and training necessary to succeed in these fields. From my achievements in previous roles to my skills in communication and leadership, I am confident that I have what it takes to make a positive impact in any organization. So take a few minutes to browse my resume, and see for yourself what sets me apart as a top candidate for any position.</p>
         <p class="center"><a class="button" href="/docs/JOHN-SEXTON-RESUME.pdf">View My Resume/CV</a></p>
-
       </div>
     </section>
 
     <section id="contact">
       <div class="container">
-
         <h2>Contact Me</h2>
         <p>I monitor my inbox from my virtual office regularly. Filling out this form will send me an email with the details you provide. I'll schedule a meeting for us to connect and discuss your project further. I'm very comfortable with all of the common video conferencing software. If you are local and would prefer to meet locally I'm happy to do so. I look foward to our conversation!</p>
-
         <form id="contact-form" method="post">
           <div class="form-group">
             <label for="name">Name</label>
@@ -115,7 +106,6 @@
           </div>
           <button type="submit" class="btn btn-primary">Send Message</button>
         </form>
-
       </div>
     </section>
 
