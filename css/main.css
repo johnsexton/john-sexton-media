@@ -18,6 +18,7 @@ html {
 body {
   background: #fefefe;
   font-family: 'Roboto', sans-serif;
+  margin: 0;
 }
 
 ::-moz-selection {
