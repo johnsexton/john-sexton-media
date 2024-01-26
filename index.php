@@ -3,27 +3,16 @@
 
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>John Sexton Media</title>
   <meta name="description" content="John Sexton is a consultant that is available to help you with your instructional design and digital media marketing needs. Service include web design, video production, photography, instructional design, elearning course development, and more!">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta property="og:title" content="">
-  <meta property="og:type" content="">
-  <meta property="og:url" content="">
-  <meta property="og:image" content="">
-
-  <link rel="manifest" href="site.webmanifest">
-  <link rel="apple-touch-icon" href="icon.png">
-  <!-- Place favicon.ico in the root directory -->
-
-  <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
 
-  <meta name="theme-color" content="#fafafa">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="icon.png">
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto:wght@400;900&family=Teko:wght@300;400&display=swap" rel="stylesheet">
+  <meta name="theme-color" content="#fafafa">
 
 <body>
 
@@ -139,25 +128,14 @@
         <h2 class="sr-only">Social Media</h2>
         <ul class="social-links">
           <li><a href="https://linkedin.com/in/johnsexton"><img src="img/social-linkedin.png" alt="Linkedin Icon"></a></li>
-          <li><a href="https://instagram.com/johnsexton.media"><img src="img/social-instagram.png" alt="Instagram Icon"></a></li>
+          <li><a href="https://instagram.com/johnsextonmedia"><img src="img/social-instagram.png" alt="Instagram Icon"></a></li>
         </ul>
       </div>
     </div>
   </footer>
 
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="js/vendor/modernizr-3.11.2.min.js"></script>
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
-
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-22W5BTW1S3"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-22W5BTW1S3');
-  </script>
+  <script src="js/vendor/jquery.js"></script>
+  <script src="js/app.js"></script>
 </body>
 
 </html>
