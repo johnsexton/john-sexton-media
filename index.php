@@ -200,6 +200,7 @@
 
   <script src="js/vendor/jquery.js"></script>
   <script src="js/app.js"></script>
+  <script defer src="https://analytics.sxtn.net/script.js" data-website-id="24bbc844-240e-4d59-8253-7cfad10a8732"></script>
 </body>
 
 </html>
